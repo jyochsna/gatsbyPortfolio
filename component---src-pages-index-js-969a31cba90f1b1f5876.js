@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{RXBc:function(e,n,t){"use strict";t.r(n),t.d(n,"default",(function(){return i}));var r=t("q1tI"),o=t.n(r);function i(){return o.a.createElement("div",null,o.a.createElement("h1",{style:{color:"orange"}},"This is my Portfolio created in gatsby"),o.a.createElement("h2",null,"The site is under constrution."))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-969a31cba90f1b1f5876.js.map
