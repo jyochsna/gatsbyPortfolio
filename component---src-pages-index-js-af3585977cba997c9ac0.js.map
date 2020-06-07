@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/pages/index.js"],"names":["Home"],"mappings":"2FAAA,wEAEe,SAASA,IACtB,OAAO","file":"component---src-pages-index-js-af3585977cba997c9ac0.js","sourcesContent":["import React from \"react\"\n\nexport default function Home() {\n  return <div>This is my Portfolio created in gatsby</div>\n}\n"],"sourceRoot":""}

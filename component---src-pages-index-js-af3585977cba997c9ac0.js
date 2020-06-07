@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{RXBc:function(n,t,e){"use strict";e.r(t),e.d(t,"default",(function(){return r}));var i=e("q1tI"),o=e.n(i);function r(){return o.a.createElement("div",null,"This is my Portfolio created in gatsby")}}}]);
+//# sourceMappingURL=component---src-pages-index-js-af3585977cba997c9ac0.js.map
