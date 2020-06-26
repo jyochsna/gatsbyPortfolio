@@ -1,6 +1,7 @@
 import React from "react"
 import { Link } from "gatsby"
 import Header from "../components/header"
+import "../styles/contacts.css"
 
 export default function Contact() {
   return (
